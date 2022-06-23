@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é *Ana Laura Gomes!*
+- :+1: Meu email de contato é [email](ana.laura.gomes@escola.pr.gov.br)
+- 🌱 Eu estou interessada em aprender novas linguagens
+- 💞️ Eu estou aprendendo a programar a linguagem de JavaScript e Scratch
